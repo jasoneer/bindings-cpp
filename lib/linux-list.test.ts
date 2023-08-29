@@ -84,6 +84,7 @@ const portOutput = [
   {
     path: '/dev/ttyACM0',
     manufacturer: 'Arduino (www.arduino.cc)',
+    product: '0043',
     serialNumber: '752303138333518011C1',
     productId: '0043',
     vendorId: '2341',
@@ -95,6 +96,7 @@ const portOutput = [
   },
   {
     path: '/dev/ttyMFD0',
+    product: 'some device made by someone',
     vendorId: '2343',
     productId: '0043',
   },
